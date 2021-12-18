@@ -1,0 +1,81 @@
+.header-index {
+    background-color: #EAC926;
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+}
+
+.logo-ml-img {
+    max-width: 244px;
+}
+
+.img-card-index {
+    max-width: 244px;
+}
+
+.img-banner-index {
+    width: 100%;
+}
+
+.p-index {
+    font-size: 12px;
+}
+
+.search-p {
+    display: flex;
+    position: relative;
+    width: 80%;
+}
+
+#search {
+    width: 100%;
+}
+
+.search-p i {
+    position: absolute;
+    right: 4px;
+    top: 2px;
+}
+
+.h3-index {
+    font-size: 24px;
+}
+
+.price-index {
+    font-size: 18px;
+}
+
+.p-16{
+    font-size: 16px;
+}
+ul li {
+    color: black;
+}
+
+.burger-menu {
+    background-color: #03264C;
+    border-radius: 4px;
+    margin: 0 auto;
+    padding: 8px;
+    text-align: center;
+    width: 20px;
+}
+
+.burger-menu i {
+    color: white;
+}
+
+.footer-index {
+    text-align: center;
+}
+
+.footer-index div i{
+    color: #1259c3;
+    font-size: 30px;
+}
+
+.span-footer-index {
+    font-size: 12px;
+    margin-top: 10px;
+    text-align: left;
+}
